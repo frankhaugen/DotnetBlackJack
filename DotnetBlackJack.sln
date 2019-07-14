@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotnetBlackJack", "DotnetBlackJack\DotnetBlackJack.csproj", "{DE26C2BC-37BE-4CB5-BC0B-AC58C72293FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotnetBlackJack.Cli", "DotnetBlackJack.Cli\DotnetBlackJack.Cli.csproj", "{AB97A46E-0793-46FF-A651-B653CBCB5209}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE26C2BC-37BE-4CB5-BC0B-AC58C72293FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE26C2BC-37BE-4CB5-BC0B-AC58C72293FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE26C2BC-37BE-4CB5-BC0B-AC58C72293FD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DE26C2BC-37BE-4CB5-BC0B-AC58C72293FD}.Debug|x64.Build.0 = Debug|Any CPU
+		{DE26C2BC-37BE-4CB5-BC0B-AC58C72293FD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DE26C2BC-37BE-4CB5-BC0B-AC58C72293FD}.Debug|x86.Build.0 = Debug|Any CPU
+		{DE26C2BC-37BE-4CB5-BC0B-AC58C72293FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE26C2BC-37BE-4CB5-BC0B-AC58C72293FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE26C2BC-37BE-4CB5-BC0B-AC58C72293FD}.Release|x64.ActiveCfg = Release|Any CPU
+		{DE26C2BC-37BE-4CB5-BC0B-AC58C72293FD}.Release|x64.Build.0 = Release|Any CPU
+		{DE26C2BC-37BE-4CB5-BC0B-AC58C72293FD}.Release|x86.ActiveCfg = Release|Any CPU
+		{DE26C2BC-37BE-4CB5-BC0B-AC58C72293FD}.Release|x86.Build.0 = Release|Any CPU
+		{AB97A46E-0793-46FF-A651-B653CBCB5209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB97A46E-0793-46FF-A651-B653CBCB5209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB97A46E-0793-46FF-A651-B653CBCB5209}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AB97A46E-0793-46FF-A651-B653CBCB5209}.Debug|x64.Build.0 = Debug|Any CPU
+		{AB97A46E-0793-46FF-A651-B653CBCB5209}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AB97A46E-0793-46FF-A651-B653CBCB5209}.Debug|x86.Build.0 = Debug|Any CPU
+		{AB97A46E-0793-46FF-A651-B653CBCB5209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB97A46E-0793-46FF-A651-B653CBCB5209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB97A46E-0793-46FF-A651-B653CBCB5209}.Release|x64.ActiveCfg = Release|Any CPU
+		{AB97A46E-0793-46FF-A651-B653CBCB5209}.Release|x64.Build.0 = Release|Any CPU
+		{AB97A46E-0793-46FF-A651-B653CBCB5209}.Release|x86.ActiveCfg = Release|Any CPU
+		{AB97A46E-0793-46FF-A651-B653CBCB5209}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46F5E001-176F-439A-94C6-71670F7669AC}
+	EndGlobalSection
+EndGlobal
