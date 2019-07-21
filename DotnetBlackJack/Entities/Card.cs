@@ -8,5 +8,6 @@ namespace DotnetBlackJack.Entities
         public string FullName => $"{Name} of {Suit.ToString()}";
         public Suits Suit { get; set; }
         public int Value { get; set; }
+        public string Character { get; set; }
     }
 }

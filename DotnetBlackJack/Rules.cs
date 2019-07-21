@@ -8,7 +8,16 @@ namespace DotnetBlackJack
     {
         public bool IsBlackjack(List<Card> hand)
         {
+            if (hand.Find(c => c.Name == "Ace"))
+            {
+                
+            }
+
+
             var sum = hand.Select(h => h.Value).Sum();
+
+
+
 
             if (hand.Count == 2 && sum == 21)
             {
